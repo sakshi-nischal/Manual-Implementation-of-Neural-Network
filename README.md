@@ -1,0 +1,1 @@
+# Manual-Implementation-of-Neural-Network
